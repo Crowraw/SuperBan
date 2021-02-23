@@ -1,0 +1,21 @@
+name: SuperBan
+version: 1.0
+main: de.crowraw.superban.SuperBan
+api-version: 1.16
+authors: [ Crowraw ]
+description: A plugin with which you can manage bans
+commands:
+  gui:
+    description: GUI
+  ban:
+    description: Bans a player
+  mute:
+    description: Mutes a player
+  info:
+    description: Gets info about a player
+  sorry:
+    description: Unbans player
+  patternban:
+    description: Bans with patern
+  pvpban:
+    description: Makes player not hit anything
